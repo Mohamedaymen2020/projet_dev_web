@@ -1,0 +1,16 @@
+:host {
+    margin: 0;
+    position: absolute;
+      top: 40%;
+      left:70%;
+      transform: translate(-50%, -50%);
+      display: flex;
+      /* align-self:right;
+      flex-direction: column;*/
+        width: 90%;
+        height: 50%;
+        border: 2px solid;
+        background-color: #fdfdfd;
+        padding: 10px;
+        color: #bdc2c5;
+        }
